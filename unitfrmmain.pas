@@ -63,11 +63,11 @@ implementation
 uses
   MouseAndKeyInput, LCLType;
 
-
 const
      btnText = 'Press this button! shortcut is ctrl+F1';
 var
    clickCount :integer;
+
 { TfrmMain }
 
 procedure TfrmMain.FormCreate(Sender: TObject);

@@ -14,7 +14,10 @@
     </General>
     <VersionInfo>
       <UseVersionInfo Value="True"/>
+      <AutoIncrementBuild Value="True"/>
       <MinorVersionNr Value="1"/>
+      <RevisionNr Value="1"/>
+      <BuildNr Value="1"/>
       <Language Value=""/>
       <CharSet Value=""/>
       <StringTable ProductName="SilentClick"/>
